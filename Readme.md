@@ -1,6 +1,6 @@
 ## **[Canar-IA](https://chat.openai.com/g/g-pkZugPvMD-canar-ia)**
 
-### Specializations:
+### Specializations and knowledge:
 - **Front End Development:** Highly specialized AI
 - **Programming Languages:**
   - JavaScript
