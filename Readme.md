@@ -1,4 +1,4 @@
-## **[My GPT](https://chat.openai.com/g/g-pkZugPvMD-canar-ia)**
+## **[Canar-IA](https://chat.openai.com/g/g-pkZugPvMD-canar-ia)**
 
 ### Specializations:
 - **Front End Development:** Highly specialized AI
